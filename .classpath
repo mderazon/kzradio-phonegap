@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="gen"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry kind="lib" path="C:/Documents and Settings/interbit/My Documents/Downloads/phonegap-phonegap-8a3aa47/lib/android/cordova-2.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/michael/Downloads/phonegap-phonegap-2.2.0-0-g8a3aa47/phonegap-phonegap-8a3aa47/lib/android/cordova-2.2.0.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
